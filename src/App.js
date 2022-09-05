@@ -1,3 +1,4 @@
+/*
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,3 +24,14 @@ function App() {
 }
 
 export default App;
+*/
+
+import './app.css'
+const App = () =>{
+  return (
+    <>
+      <h1> Hola mundo!</h1>
+      <h2> Bienvenido </h2>
+    </>
+  )
+}
